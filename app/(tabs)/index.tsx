@@ -23,7 +23,9 @@ export default function HomeScreen() {
         <Text>HOLA</Text>
         <Pressable>CLICK</Pressable>
         <Text style={{ fontSize: 14 }}>SEGUNDO CAMBIO CORREGIDO</Text>
-        <Pressable style={{ backgroundColor: "purple" }}>BOTON 2</Pressable>
+        <Pressable style={{ backgroundColor: "purple" }}>
+          BOTON CONFLICTO ALV
+        </Pressable>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
