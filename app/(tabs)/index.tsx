@@ -28,6 +28,7 @@ export default function HomeScreen() {
         </Pressable>
         <Pressable>PRESABLE 2</Pressable>
         <Text>Como de costumbre voy de madrugada</Text>
+        <Text>ESTOY EN LA RAMA DE DAVID</Text>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
