@@ -26,6 +26,7 @@ export default function HomeScreen() {
         <Pressable style={{ backgroundColor: "purple" }}>
           BOTON CONFLICTO ALV
         </Pressable>
+        <Pressable>PRESABLE 2</Pressable>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
