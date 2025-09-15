@@ -26,6 +26,7 @@ export default function HomeScreen() {
           SEGUNDO CAMBIO CORREGIDO AHORA DESDE QA
         </Text>
         <Pressable style={{ backgroundColor: "purple" }}>BOTON 2</Pressable>
+        <Text>ESTOY EN LA RAMA DE DAVID</Text>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
