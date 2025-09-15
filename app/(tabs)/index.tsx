@@ -22,7 +22,9 @@ export default function HomeScreen() {
         <ThemedText type="title">BIENVENIDO!</ThemedText>
         <Text>HOLA</Text>
         <Pressable>CLICK</Pressable>
-        <Text style={{ fontSize: 14 }}>SEGUNDO CAMBIO CORREGIDO</Text>
+        <Text style={{ fontSize: 14 }}>
+          SEGUNDO CAMBIO CORREGIDO AHORA DESDE QA
+        </Text>
         <Pressable style={{ backgroundColor: "purple" }}>BOTON 2</Pressable>
         <HelloWave />
       </ThemedView>
