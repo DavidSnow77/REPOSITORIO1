@@ -27,6 +27,7 @@ export default function HomeScreen() {
           BOTON CONFLICTO ALV
         </Pressable>
         <Pressable>PRESABLE 2</Pressable>
+        <Text>Como de costumbre voy de madrugada</Text>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
